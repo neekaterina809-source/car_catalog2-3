@@ -2,7 +2,7 @@
 
 ## Запуск с Docker
 
-1. Установи Docker Desktop
+1. Установи Docker   Desktop
 2. В корне проекта выполни:
 
 ```bash
@@ -27,3 +27,5 @@ SELECT color, AVG(price) FROM cars GROUP BY color;
 ```sql
 SELECT brand, COUNT(*) FROM cars GROUP BY brand;
 ```
+
+
